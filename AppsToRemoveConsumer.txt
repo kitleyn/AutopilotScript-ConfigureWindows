@@ -4,7 +4,6 @@ Microsoft.GamingApp
 Microsoft.GetHelp
 Microsoft.Getstarted
 Microsoft.MicrosoftOfficeHub
-Microsoft.MicrosoftSolitaireCollection
 Microsoft.People
 Microsoft.PowerAutomateDesktop
 Microsoft.Todos
